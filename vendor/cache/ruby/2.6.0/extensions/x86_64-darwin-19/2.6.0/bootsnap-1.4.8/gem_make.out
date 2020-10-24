@@ -1,0 +1,15 @@
+current directory: /Users/jacobgibson/ProjectGreen/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+/Users/jacobgibson/.rbenv/versions/2.6.3/bin/ruby -I /Users/jacobgibson/.rbenv/versions/2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20201024-47357-1ivlpxp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jacobgibson/ProjectGreen/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/jacobgibson/ProjectGreen/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/jacobgibson/ProjectGreen/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20201024-47357-hxjig9/bootsnap
